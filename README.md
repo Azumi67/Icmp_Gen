@@ -15,6 +15,10 @@
 - 12- tc & speed limiter & fire qos
 - 13- another reverse tunnel
 - 14- Another direct tunnel
-- 15- Wireguard Panel Features
+- 15- Wireguard Panel Features( starting from first usage- enable disable feature- telegram bot- ipv6 available ip- auto start wireguard interface)
 - 16- maybe gost v3 for self usage
 - 17- 64 tunnels and port forward with encryption.
+- 18- reverse tls mutli iran | kharej server
+- 19- rathole mutli port test
+- 20- similar frp tunnel
+- 21- 
