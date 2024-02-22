@@ -4,7 +4,7 @@
 - 1- UDP tunnel + IPSEC
 - 2- gen + ipsec
 - 2-1: vxlan
-- 3- ICMP v6 code rewrite (need c++)
+- 3- ICMP v6 code rewrite (need c++) 1/3 done
 - 4- use icmp with gen and other udp based tunnels combined with forward error control
 - 5- Rathole Binay
 - 6- RTCF + ICMP + GEN
@@ -25,4 +25,4 @@
 - 21- azumi bot
 - 22- frp tls +nginx
 - 23- wireguard site to site
-- 24- the continuation of multiple servers. gretap was good. geneve was good. ipsec was good. still testing erspan
+- 24- the continuation of multiple servers. gretap was good. geneve was good. ipsec was good. still testing erspan . gen ipsec test has begun
