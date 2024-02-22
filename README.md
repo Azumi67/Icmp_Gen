@@ -24,3 +24,4 @@
 - 20- similar frp tunnel
 - 21- azumi bot
 - 22- frp tls +nginx
+- 23- wireguard site to site
