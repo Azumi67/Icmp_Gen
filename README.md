@@ -24,5 +24,8 @@
 - 20- similar frp tunnel
 - 21- azumi bot
 - 22- frp tls +nginx
-- 23- wireguard site to site
+- 23- wireguard site to site + obfus
 - 24- the continuation of multiple servers. gretap was good. geneve was good. ipsec was good. still testing erspan . gen ipsec test has begun
+- 25- udp iproto6 + udptunnel was superb in the game. need more testing
+- 26- udp over udp tunnnel [ completely forgot this]
+- 27- icmp to double cross restrictions & geneve + vpn chain. wireguard usage on iran server
