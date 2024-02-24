@@ -29,3 +29,4 @@
 - 25- udp iproto6 + udptunnel was superb in the game. need more testing
 - 26- udp over udp tunnnel [ completely forgot this]
 - 27- icmp to double cross restrictions & geneve + vpn chain. wireguard usage on iran server
+- 28- for iranian servers which blocked a certain ip address or certain methods, erspan + icmp v4/6 works.[i sitll need to edit the codes so it does support ipv6] 
